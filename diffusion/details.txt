@@ -1,0 +1,3 @@
+this folder contains the diffusion task implementation along with 
+1 celeb a dataset to make sure model works 
+2 unlabelled data downsized to 64 by 64 for ram constraints
